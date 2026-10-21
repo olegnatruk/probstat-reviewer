@@ -1,0 +1,7 @@
+# Ignore raw files and other seatwork documents
+Data for sample.xlsx
+jamovi-reviewer.docx
+seatwork-1.docx
+seatwork-2.docx
+Seatwork_Solution_Guide_and_Template.docx
+.DS_Store
