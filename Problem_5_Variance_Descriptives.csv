@@ -1,0 +1,81 @@
+Student_ID,Section_Code,Section,Learning_Modality,Quiz_Score,Weekly_Study_Hours
+1,1,Section Alpha,Traditional Self-Study,89.4,8.1
+2,1,Section Alpha,Traditional Self-Study,53.9,9.5
+3,1,Section Alpha,Traditional Self-Study,79.7,17.1
+4,1,Section Alpha,Traditional Self-Study,94.6,18.7
+5,1,Section Alpha,Traditional Self-Study,89.6,17.4
+6,1,Section Alpha,Traditional Self-Study,76.8,12.1
+7,1,Section Alpha,Traditional Self-Study,65.1,12.1
+8,1,Section Alpha,Traditional Self-Study,81.8,16.6
+9,1,Section Alpha,Traditional Self-Study,71.4,12.6
+10,1,Section Alpha,Traditional Self-Study,69.7,6.5
+11,1,Section Alpha,Traditional Self-Study,73.2,21.0
+12,1,Section Alpha,Traditional Self-Study,72.6,11.2
+13,1,Section Alpha,Traditional Self-Study,70.4,4.3
+14,1,Section Alpha,Traditional Self-Study,63.2,4.3
+15,1,Section Alpha,Traditional Self-Study,80.1,12.5
+16,1,Section Alpha,Traditional Self-Study,76.3,21.1
+17,1,Section Alpha,Traditional Self-Study,88.4,21.7
+18,1,Section Alpha,Traditional Self-Study,98.4,17.7
+19,1,Section Alpha,Traditional Self-Study,93.5,6.7
+20,1,Section Alpha,Traditional Self-Study,94.1,14.6
+21,1,Section Alpha,Traditional Self-Study,86.4,21.7
+22,1,Section Alpha,Traditional Self-Study,82.1,7.0
+23,1,Section Alpha,Traditional Self-Study,72.6,12.1
+24,1,Section Alpha,Traditional Self-Study,77.1,10.9
+25,1,Section Alpha,Traditional Self-Study,60.2,27.2
+26,1,Section Alpha,Traditional Self-Study,68.8,21.4
+27,1,Section Alpha,Traditional Self-Study,97.4,18.1
+28,1,Section Alpha,Traditional Self-Study,88.1,25.6
+29,1,Section Alpha,Traditional Self-Study,80.4,16.1
+30,1,Section Alpha,Traditional Self-Study,80.7,15.4
+31,1,Section Alpha,Traditional Self-Study,67.3,24.5
+32,1,Section Alpha,Traditional Self-Study,89.2,13.4
+33,1,Section Alpha,Traditional Self-Study,85.8,5.8
+34,1,Section Alpha,Traditional Self-Study,78.5,21.3
+35,1,Section Alpha,Traditional Self-Study,63.3,11.9
+36,1,Section Alpha,Traditional Self-Study,76.7,23.3
+37,1,Section Alpha,Traditional Self-Study,97.5,2.0
+38,1,Section Alpha,Traditional Self-Study,83.6,21.1
+39,1,Section Alpha,Traditional Self-Study,84.7,16.6
+40,1,Section Alpha,Traditional Self-Study,83.4,11.4
+41,2,Section Beta,Collaborative Peer Study,71.2,15.0
+42,2,Section Beta,Collaborative Peer Study,74.8,16.7
+43,2,Section Beta,Collaborative Peer Study,79.7,15.4
+44,2,Section Beta,Collaborative Peer Study,81.9,16.1
+45,2,Section Beta,Collaborative Peer Study,77.7,15.4
+46,2,Section Beta,Collaborative Peer Study,82.9,15.8
+47,2,Section Beta,Collaborative Peer Study,83.6,17.0
+48,2,Section Beta,Collaborative Peer Study,75.7,12.2
+49,2,Section Beta,Collaborative Peer Study,80.6,15.1
+50,2,Section Beta,Collaborative Peer Study,68.0,16.2
+51,2,Section Beta,Collaborative Peer Study,79.9,14.3
+52,2,Section Beta,Collaborative Peer Study,78.2,19.1
+53,2,Section Beta,Collaborative Peer Study,76.3,13.8
+54,2,Section Beta,Collaborative Peer Study,75.1,14.9
+55,2,Section Beta,Collaborative Peer Study,78.9,14.1
+56,2,Section Beta,Collaborative Peer Study,75.6,17.2
+57,2,Section Beta,Collaborative Peer Study,77.0,16.2
+58,2,Section Beta,Collaborative Peer Study,72.4,19.4
+59,2,Section Beta,Collaborative Peer Study,80.8,14.0
+60,2,Section Beta,Collaborative Peer Study,71.0,13.4
+61,2,Section Beta,Collaborative Peer Study,71.6,15.4
+62,2,Section Beta,Collaborative Peer Study,87.7,16.0
+63,2,Section Beta,Collaborative Peer Study,81.2,17.5
+64,2,Section Beta,Collaborative Peer Study,85.7,17.1
+65,2,Section Beta,Collaborative Peer Study,76.3,14.4
+66,2,Section Beta,Collaborative Peer Study,73.8,15.1
+67,2,Section Beta,Collaborative Peer Study,81.0,14.6
+68,2,Section Beta,Collaborative Peer Study,88.8,18.5
+69,2,Section Beta,Collaborative Peer Study,68.1,13.0
+70,2,Section Beta,Collaborative Peer Study,71.9,18.2
+71,2,Section Beta,Collaborative Peer Study,68.4,14.3
+72,2,Section Beta,Collaborative Peer Study,71.9,16.4
+73,2,Section Beta,Collaborative Peer Study,77.7,15.6
+74,2,Section Beta,Collaborative Peer Study,83.5,15.4
+75,2,Section Beta,Collaborative Peer Study,82.1,11.3
+76,2,Section Beta,Collaborative Peer Study,78.0,13.6
+77,2,Section Beta,Collaborative Peer Study,76.5,17.0
+78,2,Section Beta,Collaborative Peer Study,78.7,11.4
+79,2,Section Beta,Collaborative Peer Study,67.7,18.9
+80,2,Section Beta,Collaborative Peer Study,79.0,17.6

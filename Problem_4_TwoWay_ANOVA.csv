@@ -1,0 +1,121 @@
+Student_ID,Instructional_Mode_Code,Instructional_Mode,Math_Background_Code,Math_Background,Exam_Score
+1,1,Traditional Lecture,1,Non-STEM,55.5
+2,1,Traditional Lecture,1,Non-STEM,58.6
+3,1,Traditional Lecture,1,Non-STEM,63.5
+4,1,Traditional Lecture,1,Non-STEM,69.1
+5,1,Traditional Lecture,1,Non-STEM,63.9
+6,1,Traditional Lecture,1,Non-STEM,64.1
+7,1,Traditional Lecture,1,Non-STEM,56.7
+8,1,Traditional Lecture,1,Non-STEM,59.5
+9,1,Traditional Lecture,1,Non-STEM,71.2
+10,1,Traditional Lecture,1,Non-STEM,64.3
+11,1,Traditional Lecture,1,Non-STEM,59.4
+12,1,Traditional Lecture,1,Non-STEM,64.7
+13,1,Traditional Lecture,1,Non-STEM,58.4
+14,1,Traditional Lecture,1,Non-STEM,63.4
+15,1,Traditional Lecture,1,Non-STEM,58.1
+16,1,Traditional Lecture,1,Non-STEM,74.2
+17,1,Traditional Lecture,1,Non-STEM,54.4
+18,1,Traditional Lecture,1,Non-STEM,61.5
+19,1,Traditional Lecture,1,Non-STEM,63.4
+20,1,Traditional Lecture,1,Non-STEM,70.8
+21,1,Traditional Lecture,2,STEM,66.2
+22,1,Traditional Lecture,2,STEM,70.5
+23,1,Traditional Lecture,2,STEM,74.3
+24,1,Traditional Lecture,2,STEM,80.6
+25,1,Traditional Lecture,2,STEM,90.4
+26,1,Traditional Lecture,2,STEM,70.2
+27,1,Traditional Lecture,2,STEM,72.7
+28,1,Traditional Lecture,2,STEM,87.7
+29,1,Traditional Lecture,2,STEM,74.8
+30,1,Traditional Lecture,2,STEM,67.8
+31,1,Traditional Lecture,2,STEM,77.7
+32,1,Traditional Lecture,2,STEM,74.8
+33,1,Traditional Lecture,2,STEM,68.8
+34,1,Traditional Lecture,2,STEM,78.8
+35,1,Traditional Lecture,2,STEM,78.0
+36,1,Traditional Lecture,2,STEM,71.4
+37,1,Traditional Lecture,2,STEM,81.8
+38,1,Traditional Lecture,2,STEM,64.8
+39,1,Traditional Lecture,2,STEM,73.2
+40,1,Traditional Lecture,2,STEM,74.4
+41,2,Blended Learning,1,Non-STEM,80.7
+42,2,Blended Learning,1,Non-STEM,67.8
+43,2,Blended Learning,1,Non-STEM,75.2
+44,2,Blended Learning,1,Non-STEM,75.5
+45,2,Blended Learning,1,Non-STEM,77.2
+46,2,Blended Learning,1,Non-STEM,75.9
+47,2,Blended Learning,1,Non-STEM,75.1
+48,2,Blended Learning,1,Non-STEM,69.9
+49,2,Blended Learning,1,Non-STEM,76.1
+50,2,Blended Learning,1,Non-STEM,76.7
+51,2,Blended Learning,1,Non-STEM,79.8
+52,2,Blended Learning,1,Non-STEM,65.9
+53,2,Blended Learning,1,Non-STEM,68.3
+54,2,Blended Learning,1,Non-STEM,73.8
+55,2,Blended Learning,1,Non-STEM,74.4
+56,2,Blended Learning,1,Non-STEM,74.8
+57,2,Blended Learning,1,Non-STEM,67.3
+58,2,Blended Learning,1,Non-STEM,67.3
+59,2,Blended Learning,1,Non-STEM,72.0
+60,2,Blended Learning,1,Non-STEM,83.0
+61,2,Blended Learning,2,STEM,77.1
+62,2,Blended Learning,2,STEM,72.3
+63,2,Blended Learning,2,STEM,80.8
+64,2,Blended Learning,2,STEM,81.9
+65,2,Blended Learning,2,STEM,84.6
+66,2,Blended Learning,2,STEM,67.1
+67,2,Blended Learning,2,STEM,68.4
+68,2,Blended Learning,2,STEM,87.3
+69,2,Blended Learning,2,STEM,74.5
+70,2,Blended Learning,2,STEM,87.1
+71,2,Blended Learning,2,STEM,79.7
+72,2,Blended Learning,2,STEM,81.3
+73,2,Blended Learning,2,STEM,75.6
+74,2,Blended Learning,2,STEM,81.3
+75,2,Blended Learning,2,STEM,68.7
+76,2,Blended Learning,2,STEM,79.3
+77,2,Blended Learning,2,STEM,82.2
+78,2,Blended Learning,2,STEM,83.8
+79,2,Blended Learning,2,STEM,77.9
+80,2,Blended Learning,2,STEM,84.7
+81,3,Gamified Active Learning,1,Non-STEM,92.4
+82,3,Gamified Active Learning,1,Non-STEM,84.8
+83,3,Gamified Active Learning,1,Non-STEM,79.0
+84,3,Gamified Active Learning,1,Non-STEM,83.7
+85,3,Gamified Active Learning,1,Non-STEM,79.5
+86,3,Gamified Active Learning,1,Non-STEM,91.3
+87,3,Gamified Active Learning,1,Non-STEM,82.9
+88,3,Gamified Active Learning,1,Non-STEM,79.9
+89,3,Gamified Active Learning,1,Non-STEM,78.4
+90,3,Gamified Active Learning,1,Non-STEM,74.3
+91,3,Gamified Active Learning,1,Non-STEM,86.2
+92,3,Gamified Active Learning,1,Non-STEM,76.2
+93,3,Gamified Active Learning,1,Non-STEM,85.3
+94,3,Gamified Active Learning,1,Non-STEM,88.3
+95,3,Gamified Active Learning,1,Non-STEM,84.0
+96,3,Gamified Active Learning,1,Non-STEM,80.8
+97,3,Gamified Active Learning,1,Non-STEM,90.6
+98,3,Gamified Active Learning,1,Non-STEM,83.3
+99,3,Gamified Active Learning,1,Non-STEM,85.4
+100,3,Gamified Active Learning,1,Non-STEM,81.9
+101,3,Gamified Active Learning,2,STEM,97.7
+102,3,Gamified Active Learning,2,STEM,88.3
+103,3,Gamified Active Learning,2,STEM,91.0
+104,3,Gamified Active Learning,2,STEM,93.4
+105,3,Gamified Active Learning,2,STEM,81.5
+106,3,Gamified Active Learning,2,STEM,88.1
+107,3,Gamified Active Learning,2,STEM,97.8
+108,3,Gamified Active Learning,2,STEM,78.6
+109,3,Gamified Active Learning,2,STEM,85.8
+110,3,Gamified Active Learning,2,STEM,92.4
+111,3,Gamified Active Learning,2,STEM,90.2
+112,3,Gamified Active Learning,2,STEM,91.9
+113,3,Gamified Active Learning,2,STEM,85.0
+114,3,Gamified Active Learning,2,STEM,88.2
+115,3,Gamified Active Learning,2,STEM,89.0
+116,3,Gamified Active Learning,2,STEM,90.5
+117,3,Gamified Active Learning,2,STEM,81.5
+118,3,Gamified Active Learning,2,STEM,86.3
+119,3,Gamified Active Learning,2,STEM,88.0
+120,3,Gamified Active Learning,2,STEM,79.3
